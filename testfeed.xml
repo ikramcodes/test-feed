@@ -4,6 +4,14 @@
     <title>My Test Feed</title>
     <link>https://example.com/</link>
     <description>Manual test feed for n8n</description>
+	  <item>
+      <title>5 Ways to Optimize Content for Perplexity AI</title>
+      <link>https://www.semrush.com/blog/perplexity-ai-optimization/</link>
+      <description>&lt;p&gt;&lt;img src="https://static.semrush.com/blog/uploads/media/47/4c/474cee2e64665ad1769dcd19da717c39/89a96a6a2a4bcab066df31acb0c9e1fc/perplexity-ai-optimization.svg" alt="5 Ways to Optimize Content for Perplexity AI" width="448"/&gt;&lt;/p&gt;&lt;p&gt;Perplexity optimization tips include choosing high-performance topics and writing for user engagement.&lt;/p&gt;</description>
+      <category domain="https://www.semrush.com/blog/category/ai/">ai</category>
+      <guid>https://www.semrush.com/blog/perplexity-ai-optimization/</guid>
+      <pubDate>Thu, 02 Oct 2025 07:33:00 +0000</pubDate>
+    </item>
 	  		<item>
 		<title>LinkedIn Personal Branding Statistics: New Data </title>
 		<link>https://copyblogger.com/linkedin-personal-branding-statistics/</link>
