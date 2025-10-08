@@ -4,7 +4,14 @@
     <title>My Test Feed</title>
     <link>https://example.com/</link>
     <description>Manual test feed for n8n</description>
-	
+	 <item>
+      <title>Reddit Marketing: How to Do It Right (+ 7 Tips to Get Results)</title>
+      <link>https://www.semrush.com/blog/reddit-marketing-guide/</link>
+      <description>&lt;p&gt;&lt;img src="https://static.semrush.com/blog/uploads/media/ed/85/ed85fbe1bec9ebdbebe6ef7fb80e07ac/b1bc181607b1e305cc0f9ab016d6d6a8/reddit-marketing.svg" alt="Reddit Marketing: How to Do It Right (+ 7 Tips to Get Results)" width="448"/&gt;&lt;/p&gt;&lt;p&gt;Learn how to successfully do Reddit marketing for your business—without seeming spammy.&lt;/p&gt;</description>
+      <category domain="https://www.semrush.com/blog/category/social-media/">social-media</category>
+      <guid>https://www.semrush.com/blog/reddit-marketing-guide/</guid>
+      <pubDate>Tue, 07 Oct 2025 13:59:00 +0000</pubDate>
+    </item>
 		<item>
 		<title>LinkedIn Personal Branding Statistics: New Data </title>
 		<link>https://copyblogger.com/linkedin-personal-branding-statistics/</link>
