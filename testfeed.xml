@@ -4,10 +4,12 @@
     <title>My Test Feed</title>
     <link>https://example.com/</link>
     <description>Manual test feed for n8n</description>
+
     <item>
       <title>First Test Post</title>
       <link>https://example.com/post1</link>
-      <pubDate>Mon, 07 Oct 2025 10:00:00 GMT</pubDate>
+      <guid>post-1</guid>
+      <pubDate>Mon, 06 Oct 2025 14:00:00 GMT</pubDate>
       <description>Example test post description.</description>
     </item>
   </channel>
