@@ -4,6 +4,14 @@
     <title>My Test Feed</title>
     <link>https://example.com/</link>
     <description>Manual test feed for n8n</description>
+	   <item>
+      <title>9 Best Google Business Profile Management Tools of 2025</title>
+      <link>https://www.semrush.com/blog/google-business-profile-management-tools/</link>
+      <description>&lt;p&gt;&lt;img src="https://static.semrush.com/blog/uploads/media/ec/2a/ec2a9b1e1df1a983e4201e2b39d1497e/1ae233c0328a7f30132cb4b18b41cf8f/gbp-management-tools.svg" alt="9 Best Google Business Profile Management Tools of 2025" width="448"/&gt;&lt;/p&gt;&lt;p&gt;Discover the best Google Business Profile management tools for small businesses and marketing agencies.&lt;/p&gt;</description>
+      <category domain="https://www.semrush.com/blog/category/local-seo/">local-seo</category>
+      <guid>https://www.semrush.com/blog/google-business-profile-management-tools/</guid>
+      <pubDate>Thu, 25 Sep 2025 09:25:00 +0000</pubDate>
+    </item>
 	 <item>
       <title>What are the key strategies for competitive analysis in marketing?</title>
       <link>https://www.semrush.com/blog/what-are-the-key-strategies-for-competitive-analysis-in-marketing/</link>
