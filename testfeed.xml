@@ -4,6 +4,14 @@
     <title>My Test Feed</title>
     <link>https://example.com/</link>
     <description>Manual test feed for n8n</description>
+	   <item>
+      <title>How can you do LLMO?</title>
+      <link>https://www.semrush.com/blog/how-can-you-do-llmo/</link>
+      <description>&lt;p&gt;&lt;img src="https://static.semrush.com/blog/uploads/media/c5/4e/c54e2e3df584b7051430899b790078ef/319eaf9a4e94c5c47392f5f769cfe419/frequently-asked-questions-about-seo-2.svg" alt="How can you do LLMO?" width="448"/&gt;&lt;/p&gt;&lt;p&gt;You do LLMO by creating quality content, building web presence, formatting for AI parsing, and ensuring technical accessibility for crawlers.&lt;/p&gt;</description>
+      <category domain="https://www.semrush.com/blog/category/faq/">faq</category>
+      <guid>https://www.semrush.com/blog/how-can-you-do-llmo/</guid>
+      <pubDate>Thu, 25 Sep 2025 19:23:00 +0000</pubDate>
+    </item>
 	  <item>
       <title>What are methods for keyword clustering and topic modeling?</title>
       <link>https://www.semrush.com/blog/what-are-methods-for-keyword-clustering-and-topic-modeling/</link>
