@@ -5,6 +5,14 @@
     <link>https://example.com/</link>
     <description>Manual test feed for n8n</description>
 
+	   <item>
+      <title>open ai launche new ai agents builder </title>
+      <link>https://example.com/post1</link>
+      <guid>post-1</guid>
+      <pubDate>Mon, 06 Oct 2025 14:00:00 GMT</pubDate>
+      <description>the new agent builder platfroms released on 22th october is so powerful help people to develop agents only by prompting </description>
+    </item>
+
 <item>
 		<title>AI For Freelancers: Actionable Use Cases and Tools</title>
 		<link>https://copyblogger.com/ai-for-freelancers/</link>
